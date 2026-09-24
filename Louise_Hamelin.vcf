@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hamelin;Louise;;;
+FN:Louise Hamelin
+ORG:Arthur Loyd
+TITLE:Conseiller en locaux commerciaux
+TEL;TYPE=CELL:+33608174699
+EMAIL;TYPE=WORK:louisehamelin@arthur-loyd.com
+ADR;TYPE=WORK:;;129 rue Edouard Delamare Deboutteville;Saint-Martin-du-Vivier;;76160;France
+END:VCARD
